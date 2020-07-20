@@ -7,7 +7,6 @@ pink
 ###brownish
 purple
 gray
-
 violet
 apricot
 
