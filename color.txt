@@ -8,4 +8,6 @@ pink
 purple
 gray
 
+violet
+apricot
 
