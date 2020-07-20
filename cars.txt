@@ -7,3 +7,5 @@ Bentley
 Tesla
 Kia
 Audi
+Jeep
+Mercedes
